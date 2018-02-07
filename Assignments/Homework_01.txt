@@ -2,7 +2,7 @@ John Cruz-Makuku
 MTEC3320
 HW 1
 
-+The escape room theme that i gravitated towards the most was the “Escape the Bank”. 
+    The escape room theme that i gravitated towards the most was the “Escape the Bank”. 
 It reminded me of the popular game “PayDay2” (Where the players are bank robbers). 
 In the game there is a timer displayed on the overhead of the u.i. 
 An idea that came to mind regarding “Escape the Bank” was synchronized watches. 
